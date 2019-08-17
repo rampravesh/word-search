@@ -1,0 +1,8 @@
+This application use of trie data stucture to load all word on application starting form
+resource file "upload-word.txt" file system.
+
+Run this springboot application on port 8080
+
+Open bellow swagger ui to check all other functionality.
+
+http://localhost:8080/swagger-ui.html#/
